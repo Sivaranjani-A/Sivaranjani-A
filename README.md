@@ -7,7 +7,7 @@ Fullstack Developer
 I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Research park, Chennai, TN. I am a enthusiastic learner and very interest to solve complex problems.Love to code and design perfect websites. Also having hands-on practice in using REST APIs.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://exquisite-pony-7721bf.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://sivaranjaniprofile.netlify.app)
 * ✉️  You can contact me at [ranjani731997@gmail.com](mailto:ranjani731997@gmail.com)
 * 🧠  I'm learning Python
 
